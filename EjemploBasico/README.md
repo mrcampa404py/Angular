@@ -13,3 +13,8 @@ Para iniciar debemos de conocer la distribucion interna del proyecto, siendo est
 
 4. Todo lo demas: por el momento no es importante pero lo detallaremos despues. 
 
+## Flujo de Angular 
+
+Toda aplicacion Angular es una SPA (Single Page Application), esto significa que Angular 
+solicita una sola vez una pagina html y posteriormente solo va sustituyendo secciones en 
+concreto llamadas componentes. 
